@@ -1,0 +1,4 @@
+Importa el módulo express, que es un marco de aplicación web para Node.js. express facilita la creación de servidores web y el manejo de rutas, solicitudes y respuestas HTTP.
+Importa la clase Pool del módulo pg. pg es un módulo de Node.js que proporciona una interfaz para interactuar con bases de datos PostgreSQL.
+Importa el módulo swagger-jsdoc, que es una herramienta para generar documentación Swagger (OpenAPI) a partir de comentarios en el código fuente.
+Importa el módulo swagger-ui-express. Este módulo proporciona una interfaz de usuario web para visualizar la documentación Swagger generada
