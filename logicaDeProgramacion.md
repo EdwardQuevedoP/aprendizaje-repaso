@@ -48,5 +48,5 @@ console.log(resultado);
 //respuesta = "El nuemro es impar"
 ```
 utilizamos logica porque hacemos un if que pregunta los datos y sabemos que si eso no se cumple pues haga lo otro por eso utlizamos un else = sino el se humano ya tiene estos sentidos que i algo no se cumple que haga otra cosa
-### Conclusión
+## Conclusión
 La lógica de programación es una habilidad fundamental para un desarrollador. Al aplicar estos conceptos de manera efectiva, podemos diseñar soluciones con buenas prácticas
