@@ -1,4 +1,4 @@
-# Introducción a la Lógica de Programación
+# Lógica de Programación
 
 ## ¿Qué es la Lógica de Programación?
 
