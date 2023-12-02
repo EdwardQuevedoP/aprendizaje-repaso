@@ -33,18 +33,20 @@ Un ejemplo práctico de lógica de programación podría ser la creación de un 
 ### Ejemplo en JavaScript:
 
 ```javascript
-// Algoritmo para verificar si un número es par o impar
-function verificarParidad(numero) {
-    if (numero % 2 === 0) {
-        return "El número es par.";
-    } else {
-        return "El número es impar.";
+// Algoritmo para verificar si un número es par o impar funcional
+function verificarParidad(numero) { //creamos una funcion llamada "verificarParidad" con un dato que seria numero
+    if (numero % 2 === 0) {         // pregunta = if si numero al vidivir en 2 el residuo es 0 entonces
+        return "El número es par."; // retornar = return el texto que es "El número es par." 
+    } else {                        // sino = else 
+        return "El número es impar.";// retornar = return el texto que es "El número es impar"
     }
 }
 
 // Uso del algoritmo
 const resultado = verificarParidad(7);
 console.log(resultado);
+//respuesta = "El nuemro es impar"
 ```
+utilizamos logica porque hacemos un if que pregunta los datos y sabemos que si eso no se cumple pues haga lo otro por eso utlizamos un else = sino 
 ### Conclusión
 La lógica de programación es una habilidad fundamental para un desarrollador. Al aplicar estos conceptos de manera efectiva, podemos diseñar soluciones con buenas prácticas
