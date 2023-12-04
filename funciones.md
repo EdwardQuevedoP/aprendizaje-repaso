@@ -36,8 +36,8 @@ llamamos una funcion y le asignamos un nombre y dentro de la funcion decimos que
 ### Retorno de Valores:
 Definición: Devolver un resultado desde la función al terminar su ejecución.
 ```javascript
-function cuadrado(numero):
-    return numero ** 2
+function cuadrado(num):
+    return num ** 2===0
 ```
 
 ### 
